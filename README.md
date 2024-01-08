@@ -2,7 +2,7 @@
 Join the numbers and get to the 2048 tile!
 This game is mobile compatible and you can play it on any device - iPhone, iPad or any other smartphone.
 
-## HOW TO PLAY
+### HOW TO PLAY
 Use your arrow keys to move the tiles.
 When two tiles with the same number touch, they merge into one!
 
