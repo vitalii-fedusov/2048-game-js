@@ -6,7 +6,7 @@ This game is mobile compatible and you can play it on any device - iPhone, iPad 
 Use your arrow keys to move the tiles.
 When two tiles with the same number touch, they merge into one!
 
-To see a demo click [here](https://vitalii-fedusov.github.io/js_2048_game/)
+To see a demo click [here]([https://vitalii-fedusov.github.io/js_2048_game/](https://vitalii-fedusov.github.io/2048-game-js/))
 ### Technologies
 1. HTML5
 2. SCSS
